@@ -1,0 +1,18 @@
+#register{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(26,26,26);
+}
+
+#register-content{
+    padding: 50px;
+}
+
+input{
+    border-radius: 4px !important;
+}
+
+h1{
+    font-family: "open sans", arial, "helvetica neue", sans-serif;
+    margin: 0;
+}
